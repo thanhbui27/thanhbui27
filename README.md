@@ -14,7 +14,7 @@
 <div align="center"> 
   
 ![BuiThanh27's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhbui27&text_color=9f9f9f&bg_color=151515)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbui27VN&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbui27&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=5)
 
 </div>
 
