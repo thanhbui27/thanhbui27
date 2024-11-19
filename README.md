@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋  
+**I'm Bui Thanh**  
 
-<!--
-**thanhbui27/thanhbui27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Skills  
+- **Languages:** C#, C++, Python, Java  
+- **Technologies:** Unity, .NET,  Spring Boot, React  
+- **Tools:** Git, Visual Studio, IntelliJ IDEA, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My Github stats
+<div align="center"> 
+  
+![BuiThanh27's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhbui27&text_color=9f9f9f&bg_color=151515)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbui27VN&text_color=9f9f9f&bg_color=151515&size_weight=0.5&count_weight=0.5&hide=asp.net&langs_count=5)
+
+</div>
+
+---
+
+
+### 📫 Let's Connect!  
+- **Email:** bnthanh.it@gmail.com
+- **LinkedIn:** [Bui Thanh Senpai]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/b%C3%B9i-th%C3%A0nh-senpai-675546213/))
