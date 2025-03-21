@@ -4,7 +4,7 @@
 ---
 
 ### 🛠️ Skills  
-- **Languages:** C#, C++, Python, Java  
+- **Languages:** C#, C++, Python, Java, Javascript, Typescript
 - **Technologies:** Unity, .NET,  Spring Boot, React  
 - **Tools:** Git, Visual Studio, IntelliJ IDEA, Figma  
 
